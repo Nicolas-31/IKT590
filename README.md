@@ -25,7 +25,9 @@ DCGAN = Deep Convolutional Network
 
 -----------------------------------------------------------------------------------------------------------------------
 # Acknowledgement 
+The code for training DAE network is based on https://github.com/shibuiwilliam/Keras_Autoencoder/blob/master/Cifar_Conv_AutoEncoder.ipynb
 
+The code of training DCGAN network is based on https://github.com/utkd/gans/blob/master/cifar10dcgan.ipynb
 
 
 
