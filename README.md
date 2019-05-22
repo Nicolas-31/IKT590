@@ -48,11 +48,11 @@ Test 5. overcomplete DAE with MSE
 
 Test 6: overcomplete DAE with MAE 
 
-Experiment 2: DCGAN experiment with date stamp 
+Experiment 2: DCGAN experiment with date stamp that uses BCE 
 
-Experiment 3: DCGAN experiment without date stamp 
+Experiment 3: DCGAN experiment without date stamp that uses BCE 
 
-Experiment 4: DAE - Discriminator with date stamp 
+Experiment 4: DAE - Discriminator with date stamp that uses BCE 
 
 
 
