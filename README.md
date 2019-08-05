@@ -12,7 +12,7 @@ resized images by using "datestamps.ipynb"
 Title: On the use of Denoising Autoencoders and Deep Convolutional 
 Adversarial Networks for Automated Removal of Date Stamps
 
-About: This is the master thesis project conducted by Nicolas Anderson, Mikael Paavola and 
+About: This is the master thesis project conducted and contributed by Nicolas Anderson, Mikael Paavola and 
 Johnny Sognnes at the university of Agder, Norway 
 between Jan 2019 - May 2019
 
